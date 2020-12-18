@@ -4,7 +4,7 @@
     <title>Title</title>
         <meta charset="utf-8" />
         <title>用户注册</title>
-        <link href="css/register.css" rel="stylesheet" />
+        <link href="css/login.css" rel="stylesheet" />
         <script src="js/jquery-3.5.0.min.js"></script>
         <script src="js/setPassword.js"></script>
 </head>
